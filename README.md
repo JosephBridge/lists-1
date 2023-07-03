@@ -20,7 +20,7 @@ Here is a description of the project
 
 - Here is a block of markdown code
 
-==hilight==
+== hilight ==
 
 ```
 
@@ -28,7 +28,7 @@ and result
 
 >> # Example
 >>- Here is a block of markdown code
->>==hilight==
+ =hilight=
 >>Try this
 
 
